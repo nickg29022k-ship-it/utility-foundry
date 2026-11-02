@@ -1,0 +1,25 @@
+# PDF / PPTX extraction (photo_extract_pdf.py, photo_extract_pptx.py, crop_headshots.py, debug_pptx.py)
+PyMuPDF
+opencv-python
+Pillow
+numpy
+python-pptx
+lxml
+
+# IAM / spreadsheet scripts (SyntheticDataProducer.py, iam_role_describer.py, duplicate.py)
+pandas
+openpyxl
+openai
+python-dateutil
+fuzzywuzzy
+python-Levenshtein
+
+# hashScript.py
+bcrypt
+
+# Local LLM scripts (phi3_4bits.py, phi3_8bits.py, tryLama.py, download_models.py)
+torch
+transformers
+bitsandbytes
+accelerate
+huggingface_hub
